@@ -1,0 +1,14 @@
+F:\Hello GitHub\Hello GitHub\Hello GitHub\bin\Debug\net8.0\Hello GitHub.exe
+F:\Hello GitHub\Hello GitHub\Hello GitHub\bin\Debug\net8.0\Hello GitHub.deps.json
+F:\Hello GitHub\Hello GitHub\Hello GitHub\bin\Debug\net8.0\Hello GitHub.runtimeconfig.json
+F:\Hello GitHub\Hello GitHub\Hello GitHub\bin\Debug\net8.0\Hello GitHub.dll
+F:\Hello GitHub\Hello GitHub\Hello GitHub\bin\Debug\net8.0\Hello GitHub.pdb
+F:\Hello GitHub\Hello GitHub\Hello GitHub\obj\Debug\net8.0\Hello GitHub.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hello GitHub\Hello GitHub\Hello GitHub\obj\Debug\net8.0\Hello GitHub.AssemblyInfoInputs.cache
+F:\Hello GitHub\Hello GitHub\Hello GitHub\obj\Debug\net8.0\Hello GitHub.AssemblyInfo.cs
+F:\Hello GitHub\Hello GitHub\Hello GitHub\obj\Debug\net8.0\Hello GitHub.csproj.CoreCompileInputs.cache
+F:\Hello GitHub\Hello GitHub\Hello GitHub\obj\Debug\net8.0\Hello GitHub.dll
+F:\Hello GitHub\Hello GitHub\Hello GitHub\obj\Debug\net8.0\refint\Hello GitHub.dll
+F:\Hello GitHub\Hello GitHub\Hello GitHub\obj\Debug\net8.0\Hello GitHub.pdb
+F:\Hello GitHub\Hello GitHub\Hello GitHub\obj\Debug\net8.0\Hello GitHub.genruntimeconfig.cache
+F:\Hello GitHub\Hello GitHub\Hello GitHub\obj\Debug\net8.0\ref\Hello GitHub.dll
